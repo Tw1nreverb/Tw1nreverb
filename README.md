@@ -1,7 +1,7 @@
 <h1 align="center">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web-developer from Russia 🇷🇺</h3>
-<div align="center">- 🌱 I’m currently learning Python, Fastapi and other backend stuff</div>
+<div align="center">- 🌱 I’m currently learning backend development</div>
 
 ```python
 class SoftwareEngineer:
